@@ -8,10 +8,10 @@ const RADIO_NAME = 'Your Radio!';
 var API_SERVICE = 'DEEZER';
 
 // Change Stream Audio URL from AzuraCast Here.
-const URL_STREAMING = 'https://s1.cloudmu.id/listen/pop_hits/radio.aac';
+const URL_STREAMING = 'https://demo.azuracast.com/listen/azuratest_radio/radio.mp3';
 
 //NOW PLAYING AzuraCast API.
-const API_URL = 'https://s1.cloudmu.id/api/nowplaying/11';
+const API_URL = 'https://demo.azuracast.com/api/nowplaying/1';
 
 // Visit https://api.vagalume.com.br/docs/ to get your API key
 const API_KEY = "18fe07917957c289983464588aabddfb";
@@ -85,7 +85,6 @@ function Page() {
       // Formating characters to UTF-8
       var music = info.song.title.replace(/&amp;/g, '&');;
       var songHist = music.replace(/&amp;/g, '&');
-      // console.log('Received data:', songHist);
 
       var artist = info.song.artist.replace(/&apos;/g, '\'');
       var artistHist = artist.replace(/&amp;/g, '&');
