@@ -36,10 +36,7 @@ Open The img folder and add your logo named "cover.png"
 * Apple Music / Itunes
 * Deezer
 * Spotify
-* SoundCloud
-* BandCamp
 * Azuracast
-* MediaCP
 
 ## Keyboard Controls 
 * `M` - mute/unmute
