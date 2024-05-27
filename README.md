@@ -33,10 +33,10 @@ Open The img folder and add your logo named "cover.png"
 * Azuracast
 
 ## Supported API/Data Sources
-* Apple Music / Itunes
-* Deezer
-* Spotify
-* Azuracast
+- [x] Apple Music / Itunes
+- [x] Deezer
+- [x] Spotify
+- [x] Azuracast
 
 ## Keyboard Controls 
 * `M` - mute/unmute
