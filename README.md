@@ -20,35 +20,35 @@ const API_URL = "https://demo.azuracast.com/api/nowplaying/1";
 
  ```
 
- ## Change Logo.
+ ### Change Logo.
 
 Open The img folder and add your logo named "cover.png"
 
-## Demo Screenshots
+### Demo Screenshots
 
 ![Demo Screenshot](https://github.com/PeWe79/RadioPlayer/blob/main/img/thumb.png)
 
 
-## Supported Streaming Hosting Types
+### Supported Streaming Hosting Types
 * Azuracast
 
-## Supported API/Data Sources
+### Supported API/Data Sources
 - [x] Apple Music / Itunes
 - [x] Deezer
 - [x] Spotify
 - [x] Azuracast
 
-## Keyboard Controls 
+### Keyboard Controls 
 * `M` - mute/unmute
 * `P` and `space` - play/pause
 * `arrow up` and `arrow down` - increase/decrease volume
 * `0 to 9` - volume percent
 
-## License
+#### License
 
 [MIT](https://github.com/gsavio/player-shoutcast-html5/blob/master/LICENSE)
 
-## Credits
+### Credits
 * [gsavio//player-shoutcast-html5](https://github.com/gsavio/player-shoutcast-html5)
 * [joeyboli/RadioPlayer](https://github.com/joeyboli/RadioPlayer)
 
