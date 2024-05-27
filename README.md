@@ -1,7 +1,7 @@
 
-# HTML5 AzuraCast Radio Player
+### HTML5 AzuraCast Radio Player
 
-# Documentation.
+### Documentation.
 
 Open The [script.js](https://github.com/PeWe79/RadioPlayer-azuracast/blob/main/js/script.js) file and edit the lines Below.
 
